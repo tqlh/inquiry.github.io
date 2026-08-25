@@ -1,0 +1,766 @@
+[
+  {
+    "name": "Zerotox",
+    "category": "TOXINS",
+    "variants": [
+      "100Unit"
+    ],
+    "packaging": "1 vial",
+    "info": "BOTULINUM TOXIN TYPE A (BoNT-A) | LYOPHILIZED FORMULATION\nASSAY: 87–115% | STORAGE: 2–8°C\nHighly purified Korean BoNT-A engineered for targeted neuromuscular blockade[cite: 1]. Designed for precise localized diffusion, offering predictable onset and stabilization of dynamic muscle kinetics in aesthetic applications.",
+    "search": "Zerotox 100Unit",
+    "infoRu": "БОТУЛИНИЧЕСКИЙ ТОКСИН ТИПА A (BoNT-A) | ЛИОФИЛИЗАТ\nАКТИВНОСТЬ: 87–115% | ХРАНЕНИЕ: 2–8°C\nВысокоочищенный корейский BoNT-A для целенаправленной нейромышечной блокады[cite: 1]. Разработан для точной локальной диффузии, обеспечивая предсказуемое начало действия и стабилизацию динамической мышечной кинетики."
+  },
+  {
+    "name": "Innotox",
+    "category": "TOXINS",
+    "variants": [
+      "50Unit",
+      "100Unit"
+    ],
+    "packaging": "1 vial",
+    "info": "BOTULINUM TOXIN TYPE A (BoNT-A) | READY-TO-USE LIQUID\nANIMAL-COMPONENT FREE | TEMPERATURE STABLE\nAdvanced liquid-phase BoNT-A formulation eliminating reconstitution variability[cite: 1]. Formulated without human serum albumin or animal-derived products, ensuring long-term stability and precise dosing accuracy for dynamic wrinkle correction.",
+    "search": "Innotox 50Unit Innotox 100Unit",
+    "infoRu": "БОТУЛИНИЧЕСКИЙ ТОКСИН ТИПА A (BoNT-A) | ГОТОВЫЙ ЖИДКИЙ РАСТВОР\nБЕЗ ЖИВОТНЫХ КОМПОНЕНТОВ | ТЕРМОСТАБИЛЬНОСТЬ\nПередовая жидкая формула BoNT-A, исключающая вариативность при разведении[cite: 1]. Создана без использования человеческого сывороточного альбумина или компонентов животного происхождения, что гарантирует долгосрочную стабильность и точность дозирования."
+  },
+  {
+    "name": "Juvederm Voluma",
+    "category": "FILLER",
+    "variants": [
+      "Voluma"
+    ],
+    "packaging": "2 x 1 ml syringe",
+    "info": "CROSS-LINKED HA + LIDOCAINE | VYCROSS™ TECHNOLOGY\nHIGH COHESIVITY | SUPRAPERIOSTEAL INJECTION\nStructural dermal filler combining high and low molecular weight HA for optimized cross-linking density. Delivers superior viscoelasticity (G-prime) for maximum lift capacity, facial contouring, and mid-face volumization[cite: 1].",
+    "search": "Juvederm Voluma lidocaine",
+    "infoRu": "СШИТАЯ ГК + ЛИДОКАИН | ТЕХНОЛОГИЯ VYCROSS™\nВЫСОКАЯ КОГЕЗИВНОСТЬ | СУПРАПЕРИОСТАЛЬНАЯ ИНЪЕКЦИЯ\nСтруктурный дермальный филлер, сочетающий ГК высокой и низкой молекулярной массы для оптимизации плотности сшивания. Обеспечивает превосходную вязкоупругость (G-prime) для максимального лифтинга, контурирования лица и волюмизации средней трети[cite: 1]."
+  },
+  {
+    "name": "CELOSOME AQUA",
+    "category": "HA / HYDRATION",
+    "variants": [],
+    "packaging": "5 syringes",
+    "info": "NON-CROSS-LINKED HA 24 MG/ML + MANNITOL 0.9% | HENM TECHNOLOGY\n8-PHASE PURIFICATION | SUPERFICIAL DERMAL HYDRATION\nLow-viscosity hydro-booster engineered for intensive extracellular matrix hydration. Mannitol integration reduces free radical degradation, while the 8-phase purification ensures high biocompatibility for optimal skin revitalization[cite: 1].",
+    "search": "CELOSOME AQUA",
+    "infoRu": "НЕСШИТАЯ ГК 24 МГ/МЛ + МАННИТОЛ 0,9% | ТЕХНОЛОГИЯ HENM\n8-ЭТАПНАЯ ОЧИСТКА | ПОВЕРХНОСТНАЯ ГИДРАТАЦИЯ ДЕРМЫ\nНизковязкий гидробустер для интенсивного увлажнения внеклеточного матрикса. Включение маннитола снижает деградацию от свободных радикалов, а 8-этапная очистка обеспечивает высокую биосовместимость для оптимальной ревитализации кожи[cite: 1]."
+  },
+  {
+    "name": "Kabelline",
+    "category": "LIPOLYTIC",
+    "variants": [],
+    "packaging": "5 vials",
+    "info": "DEOXYCHOLIC ACID + L-CARNITINE | ADIPOCYTOLYSIS\nSYNTHETIC BILE ACID | LOCALIZED FAT REDUCTION\nA targeted lipolytic formulation containing deoxycholic acid to physically disrupt adipocyte cell membranes[cite: 1]. Formulated with L-carnitine to accelerate fat metabolism and promote efficient clearance via the lymphatic system.",
+    "search": "Kabelline",
+    "infoRu": "ДЕЗОКСИХОЛЕВАЯ КИСЛОТА + L-КАРНИТИН | АДИПОЦИТОЛИЗ\nСИНТЕТИЧЕСКАЯ ЖЕЛЧНАЯ КИСЛОТА | ЛОКАЛЬНОЕ УМЕНЬШЕНИЕ ЖИРА\nЦеленаправленная липолитическая формула с дезоксихолевой кислотой для физического разрушения мембран адипоцитов[cite: 1]. Обогащена L-карнитином для ускорения жирового обмена и эффективного выведения через лимфатическую систему."
+  },
+  {
+    "name": "Elasty G Plus",
+    "category": "FILLER",
+    "variants": [
+      "D",
+      "F",
+      "G Plus"
+    ],
+    "packaging": "1 syringe",
+    "info": "CROSS-LINKED HA 24 MG/ML | PNET™ TECHNOLOGY\nHIGH VISCOSITY | DEEP DERMAL TO SUBCUTANEOUS INJECTION\nManufactured using Preserved Natural Entanglement Technology (PNET) for maximum cohesivity and elastic modulus[cite: 1]. Engineered for severe fold correction and structural facial contouring with an extended degradation timeline.",
+    "search": "Elasty D/F/G Plus",
+    "infoRu": "СШИТАЯ ГК 24 МГ/МЛ | ТЕХНОЛОГИЯ PNET™\nВЫСОКАЯ ВЯЗКОСТЬ | ГЛУБОКИЕ ДЕРМАЛЬНЫЕ И СУБКУТАННЫЕ ИНЪЕКЦИИ\nПроизводится с использованием технологии сохранения естественного переплетения (PNET) для максимальной когезивности и модуля упругости[cite: 1]. Разработан для коррекции выраженных складок и структурного контурирования лица с пролонгированным сроком деградации."
+  },
+  {
+    "name": "EPTQ S500",
+    "category": "FILLER",
+    "variants": [
+      "S100",
+      "S300",
+      "S500"
+    ],
+    "packaging": "1 syringe",
+    "info": "CROSS-LINKED HA | HIVE-STRUCTURE TECHNOLOGY\nENDOTOXIN < 0.1 EU/ML | ZEEP PURIFICATION\nUtilizes Zero Endotoxin and BDDE Entire Process (ZEEP) technology to ensure premium clinical purity. The HIVE-structure provides high viscoelasticity for optimal tissue lift and structural volume restoration[cite: 1].",
+    "search": "EPTQ S500",
+    "infoRu": "СШИТАЯ ГК | ТЕХНОЛОГИЯ HIVE-STRUCTURE\nЭНДОТОКСИН < 0,1 EU/МЛ | ОЧИСТКА ZEEP\nИспользует технологию нулевого эндотоксина и полного контроля BDDE (ZEEP) для обеспечения премиальной клинической чистоты. Структура HIVE обеспечивает высокую вязкоупругость для оптимального лифтинга тканей и восстановления структурного объема[cite: 1]."
+  },
+  {
+    "name": "Gouri",
+    "category": "COLLAGEN STIMULATORS / REGENERATIVE",
+    "variants": [],
+    "packaging": "1 syringe",
+    "info": "SOLUBILIZED LIQUID PCL | CESABP TECHNOLOGY\nNO MICROPARTICLES | PAN-FACIAL NEOCOLLAGENESIS\nThe first fully liquid Polycaprolactone (PCL) injectable developed with patented Collagen Enabled Solubilized Active Biodegradable Polymer (CESABP) technology[cite: 1]. Diffuses evenly across the extracellular matrix to stimulate pan-facial collagen synthesis without localized microparticle aggregation.",
+    "search": "Gouri",
+    "infoRu": "РАСТВОРИМЫЙ ЖИДКИЙ PCL | ТЕХНОЛОГИЯ CESABP\nБЕЗ МИКРОЧАСТИЦ | ПАНФАЦИАЛЬНЫЙ НЕОКОЛЛАГЕНЕЗ\nПервый полностью жидкий инъекционный поликапролактон (PCL), разработанный по запатентованной технологии CESABP[cite: 1]. Равномерно диффундирует во внеклеточном матриксе, стимулируя панфациальный синтез коллагена без локального скопления микрочастиц."
+  },
+  {
+    "name": "Juvelook",
+    "category": "COLLAGEN STIMULATORS / REGENERATIVE",
+    "variants": [
+      "50mg",
+      "200mg"
+    ],
+    "packaging": "1 vial",
+    "info": "PDLLA + NON-CROSS-LINKED HA | HYBRID SKIN BOOSTER\nLOW GLASS TRANSITION TEMPERATURE | SUPERFICIAL DERMIS\nA hybrid biostimulator combining Poly-D,L-lactic acid and hyaluronic acid[cite: 1]. Designed for immediate hydro-balance and gradual neocollagenesis. Specifically formulated for delicate zones, including the periocular area and tear troughs.",
+    "search": "Juvelook 50mg",
+    "infoRu": "PDLLA + НЕСШИТАЯ ГК | ГИБРИДНЫЙ СКИНБУСТЕР\nНИЗКАЯ ТЕМПЕРАТУРА СТЕКЛОВАНИЯ | ПОВЕРХНОСТНАЯ ДЕРМА\nГибридный биостимулятор, сочетающий поли-D,L-молочную кислоту и гиалуроновую кислоту[cite: 1]. Предназначен для немедленного гидробаланса и постепенного неоколлагенеза. Специально разработан для деликатных зон, включая периорбитальную область и слезные борозды."
+  },
+  {
+    "name": "ASCE SRLV",
+    "category": "EXOSOME",
+    "variants": [],
+    "packaging": "5 sets",
+    "info": "EXOSOME COMPLEX | ExoSCRT™ TECHNOLOGY\nROSA DAMASCENA STEM CELLS | BIOACTIVE VESICLES\nAdvanced two-part regenerative system utilizing patented ExoSCRT™ purification to isolate bioactive exosomes[cite: 1]. Delivers cellular signaling cargo—including growth factors, peptides, NAD+, and glutathione—directly to fibroblasts, accelerating pan-facial tissue repair and profound skin quality improvement.",
+    "search": "ASCE SRLV",
+    "infoRu": "ЭКЗОСОМНЫЙ КОМПЛЕКС | ТЕХНОЛОГИЯ ExoSCRT™\nСТВОЛОВЫЕ КЛЕТКИ ROSA DAMASCENA | БИОАКТИВНЫЕ ВЕЗИКУЛЫ\nПередовая двухкомпонентная регенеративная система с запатентованной очисткой ExoSCRT™ для выделения биоактивных экзосом[cite: 1]. Доставляет сигнальные молекулы (факторы роста, пептиды, NAD+, глутатион) напрямую к фибробластам, ускоряя панфациальное восстановление тканей и глубокое улучшение качества кожи."
+  },
+  {
+    "name": "REJURAN HEALER",
+    "category": "PDRN / PN",
+    "variants": [],
+    "packaging": "2 syringes",
+    "info": "POLYNUCLEOTIDE (PN) | DOT™ TECHNOLOGY\nSALMON-DERIVED DNA | EXTRACELLULAR MATRIX REPAIR\nFormulated with high-concentration polynucleotides extracted via proprietary DNA Optimising Technology (DOT™). Fragments DNA into ultrafine therapeutic molecules that penetrate the dermis to stimulate fibroblast proliferation, upregulate endogenous collagen, and rapidly recover damaged extracellular matrix structures[cite: 1].",
+    "search": "REJURAN HEALER",
+    "infoRu": "ПОЛИНУКЛЕОТИДЫ (PN) | ТЕХНОЛОГИЯ DOT™\nДНК ЛОСОСЯ | ВОССТАНОВЛЕНИЕ ВНЕКЛЕТОЧНОГО МАТРИКСА\nПрепарат на основе высококонцентрированных полинуклеотидов, созданный по технологии DOT™. Ультратонкие молекулы проникают в дерму, стимулируя пролиферацию фибробластов, выработку собственного коллагена и быстрое восстановление поврежденного внеклеточного матрикса[cite: 1]."
+  },
+  {
+    "name": "Beads Max",
+    "category": "BODY FILLER",
+    "variants": [
+      "Classic H",
+      "Classic S"
+    ],
+    "packaging": "1 syringe",
+    "info": "CROSS-LINKED HA | MCL TECHNOLOGY\nHIGH VISCOSITY GEL | MACROMOLECULAR EXPANSION\nPremium body filler engineered with Multi-Staged Cross-Linking (MCL) technology. Yields an exceptionally dense, migration-resistant gel matrix designed for deep dermal and subcutaneous injection, ensuring maximum structural support and long-lasting contouring[cite: 1].",
+    "search": "Beads Max Classic H Classic S",
+    "infoRu": "СШИТАЯ ГК | ТЕХНОЛОГИЯ MCL\nВЫСОКОВЯЗКИЙ ГЕЛЬ | МАКРОМОЛЕКУЛЯРНАЯ ЭКСПАНСИЯ\nФиллер премиум-класса для тела с технологией многоступенчатого сшивания (MCL). Создает сверхплотную, устойчивую к миграции гелевую матрицу для глубокого дермального и субдермального введения, обеспечивая максимальную структурную поддержку и долговременное контурирование[cite: 1]."
+  },
+  {
+    "name": "LIPO LAB PPC Solution (+GMS)",
+    "category": "LIPOLYTIC",
+    "variants": [],
+    "packaging": "10 vials",
+    "info": "PHOSPHATIDYLCHOLINE (PPC) | SUBCUTANEOUS INJECTION\nLIPID EMULSIFICATION | LOCALIZED FAT REDUCTION\nHigh-concentration lipolytic solution delivering Phosphatidylcholine to actively emulsify and break down subcutaneous fat layers[cite: 1]. Designed for targeted body contouring, reducing adipocyte volume while simultaneously supporting elasticity.",
+    "search": "LIPO LAB PPC Solution (+GMS)",
+    "infoRu": "ФОСФАТИДИЛХОЛИН (PPC) | СУБКУТАННЫЕ ИНЪЕКЦИИ\nЭМУЛЬГИРОВАНИЕ ЛИПИДОВ | ЛОКАЛЬНОЕ УМЕНЬШЕНИЕ ЖИРА\nВысококонцентрированный липолитический раствор с фосфатидилхолином для активного эмульгирования и расщепления подкожно-жировой клетчатки[cite: 1]. Разработан для прицельного контурирования тела, уменьшения объема адипоцитов с одновременной поддержкой упругости тканей."
+  },
+  {
+    "name": "Hutox",
+    "category": "TOXINS",
+    "variants": [
+      "100Unit",
+      "200Unit"
+    ],
+    "packaging": "1 vial",
+    "info": "BOTULINUM TOXIN TYPE A | HIGH-PURITY NEUROTOXIN\nTARGETED NEUROMUSCULAR BLOCKADE | PREDICTABLE DIFFUSION\nHigh-purity BoNT-A formulation engineered for targeted neuromuscular blockade. Delivers precise localized diffusion with over 99% purity, ensuring predictable stabilization of dynamic muscle kinetics for professional aesthetic applications[cite: 1].",
+    "search": "Hutox 100Unit Hutox 200Unit",
+    "infoRu": "БОТУЛИНИЧЕСКИЙ ТОКСИН ТИПА A | ВЫСОКООЧИЩЕННЫЙ НЕЙРОТОКСИН\nЦЕЛЕНАПРАВЛЕННАЯ НЕЙРОМЫШЕЧНАЯ БЛОКАДА | ПРЕДСКАЗУЕМАЯ ДИФФУЗИЯ\nВысокоочищенная формула BoNT-A, разработанная для прицельной нейромышечной блокады. Обеспечивает точную локальную диффузию с чистотой более 99%, гарантируя предсказуемую стабилизацию динамической мышечной кинетики в профессиональной эстетической практике[cite: 1]."
+  },
+  {
+    "name": "Botulax",
+    "category": "TOXINS",
+    "variants": [
+      "100Unit",
+      "200Unit",
+      "300Unit"
+    ],
+    "packaging": "1 vial",
+    "info": "BOTULINUM TOXIN TYPE A | CBFC26 STRAIN\nVERIFIED CLINICAL PROFILE | DYNAMIC RHYTIDE CORRECTION\nFeatures a rigorously verified clinical profile for temporary neuromuscular blockade[cite: 1]. The specific strain selection ensures consistent molecular weight and reliable onset for correcting dynamic facial rhytides.",
+    "search": "Botulax 100Unit Botulax 200Unit Botulax 300Unit",
+    "infoRu": "БОТУЛИНИЧЕСКИЙ ТОКСИН ТИПА A | ШТАММ CBFC26\nВЕРИФИЦИРОВАННЫЙ КЛИНИЧЕСКИЙ ПРОФИЛЬ | КОРРЕКЦИЯ ДИНАМИЧЕСКИХ МОРЩИН\nОтличается строго выверенным клиническим профилем для временной нейромышечной блокады[cite: 1]. Специфический штамм обеспечивает стабильную молекулярную массу и надежное начало действия при коррекции динамических морщин лица."
+  },
+  {
+    "name": "Hitox",
+    "category": "TOXINS",
+    "variants": [
+      "100Unit"
+    ],
+    "packaging": "1 vial",
+    "info": "BOTULINUM TOXIN TYPE A | HIGH-PURITY NEUROTOXIN\nPREDICTABLE KINETICS | TARGETED MUSCLE RELAXATION\nAdvanced prescription-grade BoNT-A formulation engineered for the temporary denervation of targeted muscle groups[cite: 1]. Provides a stable molecular profile for predictable diffusion and consistent aesthetic wrinkle correction.",
+    "search": "Hitox 100Unit",
+    "infoRu": "БОТУЛИНИЧЕСКИЙ ТОКСИН ТИПА A | ВЫСОКООЧИЩЕННЫЙ НЕЙРОТОКСИН\nПРЕДСКАЗУЕМАЯ КИНЕТИКА | ЦЕЛЕНАПРАВЛЕННАЯ МИОРЕЛАКСАЦИЯ\nПередовая рецептурная формула BoNT-A, разработанная для временной денервации целевых мышечных групп[cite: 1]. Обеспечивает стабильный молекулярный профиль для предсказуемой диффузии и надежной эстетической коррекции морщин."
+  },
+  {
+    "name": "Bijutox",
+    "category": "TOXINS",
+    "variants": [
+      "100Unit"
+    ],
+    "packaging": "1 vial",
+    "info": "BOTULINUM TOXIN TYPE A | AESTHETIC NEUROMODULATOR\nDYNAMIC RHYTIDE REDUCTION | LOCALIZED DIFFUSION\nKorean-manufactured aesthetic neurotoxin designed for precise, temporary muscle relaxation[cite: 1]. Formulated to effectively block acetylcholine release at the neuromuscular junction, drastically reducing the appearance of hyperkinetic facial lines.",
+    "search": "Bijutox 100Unit",
+    "infoRu": "БОТУЛИНИЧЕСКИЙ ТОКСИН ТИПА A | ЭСТЕТИЧЕСКИЙ НЕЙРОМОДУЛЯТОР\nКОРРЕКЦИЯ ДИНАМИЧЕСКИХ МОРЩИН | ЛОКАЛИЗОВАННАЯ ДИФФУЗИЯ\nЭстетический нейротоксин корейского производства, предназначенный для точного временного расслабления мышц[cite: 1]. Разработан для эффективного блокирования высвобождения ацетилхолина в нервно-мышечном синапсе, радикально уменьшая выраженность гиперкинетических лицевых линий."
+  },
+  {
+    "name": "Toxta",
+    "category": "TOXINS",
+    "variants": [
+      "100Unit"
+    ],
+    "packaging": "1 vial",
+    "info": "BOTULINUM TOXIN TYPE A | ORIGINAL STRAIN FORMULATION\nLOW IMMUNOGENICITY | HIGH EFFICACY BINDING\nPremium Korean BoNT-A engineered for the precise, temporary reduction of targeted muscle activity[cite: 1]. Manufactured with stringent purification protocols to minimize complexing proteins and lower the risk of neutralizing antibody resistance.",
+    "search": "Toxta 100Unit",
+    "infoRu": "БОТУЛИНИЧЕСКИЙ ТОКСИН ТИПА A | ОРИГИНАЛЬНЫЙ ШТАММ\nНИЗКАЯ ИММУНОГЕННОСТЬ | ВЫСОКАЯ ЭФФЕКТИВНОСТЬ СВЯЗЫВАНИЯ\nПремиальный корейский BoNT-A, разработанный для точного временного снижения активности целевых мышц[cite: 1]. Производится по строгим протоколам очистки для минимизации комплексообразующих белков и снижения риска образования нейтрализующих антител."
+  },
+  {
+    "name": "Kaimax",
+    "category": "TOXINS",
+    "variants": [
+      "100Unit",
+      "200Unit"
+    ],
+    "packaging": "1 vial",
+    "info": "BOTULINUM TOXIN TYPE A | CONTROLLED NEUROMODULATION\nOPTIMIZED MOLECULAR WEIGHT | CONSISTENT SPREAD\nHigh-performance Korean neurotoxin calibrated for controlled, temporary muscle relaxation[cite: 1]. Delivers a consistent and symmetric diffusion radius, making it highly effective for both large muscle groups and delicate facial zones.",
+    "search": "Kaimax 100Unit Kaimax 200Unit",
+    "infoRu": "БОТУЛИНИЧЕСКИЙ ТОКСИН ТИПА A | КОНТРОЛИРУЕМАЯ НЕЙРОМОДУЛЯЦИЯ\nОПТИМИЗИРОВАННАЯ МОЛЕКУЛЯРНАЯ МАССА | РАВНОМЕРНОЕ РАСПРЕДЕЛЕНИЕ\nВысокоэффективный корейский нейротоксин, откалиброванный для контролируемого временного расслабления мышц[cite: 1]. Обеспечивает стабильный и симметричный радиус диффузии, что делает его крайне эффективным как для крупных мышечных групп, так и для деликатных зон лица."
+  },
+  {
+    "name": "Metox",
+    "category": "TOXINS",
+    "variants": [
+      "100U",
+      "200U"
+    ],
+    "packaging": "1 vial",
+    "info": "BOTULINUM TOXIN TYPE A | NEXT-GENERATION NEUROTOXIN\nRAPID ONSET | TEMPORARY MUSCLE DENERVATION\nAdvanced BoNT-A formulation optimized for the temporary reduction of dynamic muscle activity[cite: 1]. Engineered to provide rapid onset kinetics and sustained clinical duration for comprehensive aesthetic facial balancing.",
+    "search": "Metox 100U Metox 200U",
+    "infoRu": "БОТУЛИНИЧЕСКИЙ ТОКСИН ТИПА A | НЕЙРОТОКСИН НОВОГО ПОКОЛЕНИЯ\nБЫСТРОЕ НАЧАЛО ДЕЙСТВИЯ | ВРЕМЕННАЯ ДЕНЕРВАЦИЯ МЫШЦ\nУсовершенствованная формула BoNT-A, оптимизированная для временного снижения динамической мышечной активности[cite: 1]. Разработана для обеспечения быстрой кинетики начала действия и устойчивой клинической продолжительности для комплексной эстетической гармонизации лица."
+  },
+  {
+    "name": "Aribell",
+    "category": "FILLER",
+    "variants": [
+      "Soft",
+      "Deep",
+      "Volume"
+    ],
+    "packaging": "1 syringe",
+    "info": "CROSS-LINKED HA | PROGRESSIVE GEL RHEOLOGY\nMULTIPHASIC INTEGRATION | STRUCTURAL VOLUMIZATION\nA comprehensive dermal filler portfolio featuring distinct rheological profiles to cover superficial correction through deep structural applications[cite: 1]. The variable cross-linking densities provide tailored G-prime levels for optimal tissue integration and mechanical lift.",
+    "search": "Aribell Aribell Soft Aribell Deep Aribell Volume",
+    "infoRu": "СШИТАЯ ГК | ПРОГРЕССИВНАЯ РЕОЛОГИЯ ГЕЛЯ\nМУЛЬТИФАЗНАЯ ИНТЕГРАЦИЯ | СТРУКТУРНАЯ ВОЛЮМИЗАЦИЯ\nКомплексная линейка дермальных филлеров с различными реологическими профилями для решения задач от поверхностной коррекции до глубоких структурных инъекций[cite: 1]. Различная плотность сшивания обеспечивает индивидуальный уровень G-prime для оптимальной интеграции в ткани и механического лифтинга."
+  },
+  {
+    "name": "Bellast Ultra L/Soft L/Plus",
+    "category": "FILLER",
+    "variants": [],
+    "packaging": "1 syringe",
+    "info": "CROSS-LINKED HA | TAILORED VISCOELASTICITY\nHIGH BIOCOMPATIBILITY | FACIAL CONTOURING\nA highly cohesive dermal filler range differentiated strictly by targeted gel characteristics[cite: 1]. Engineered to provide smooth extrusion forces and excellent malleability for precise facial correction, ensuring natural kinetic movement post-integration.",
+    "search": "Bellast Ultra L/Soft L/Plus",
+    "infoRu": "СШИТАЯ ГК | АДАПТИВНАЯ ВЯЗКОУПРУГОСТЬ\nВЫСОКАЯ БИОСОВМЕСТИМОСТЬ | КОНТУРИРОВАНИЕ ЛИЦА\nЛинейка высококогезивных дермальных филлеров, дифференцируемых строго по целевым характеристикам геля[cite: 1]. Разработана для обеспечения плавного усилия экструзии и превосходной пластичности для точной коррекции лица, гарантируя естественную кинетику после интеграции препарата."
+  },
+  {
+    "name": "Dermalax Implant Plus",
+    "category": "FILLER",
+    "variants": [],
+    "packaging": "2 syringes",
+    "info": "CROSS-LINKED HA | MAXIMUM G-PRIME\nSUPRAPERIOSTEAL AUGMENTATION | HIGH-SUPPORT VOLUMIZING\nA highly cohesive, ultra-dense HA matrix explicitly formulated as an implant-grade filler[cite: 1]. Delivers maximum structural support and mechanical lift for deep facial contouring and volumetric restoration of the jawline and malar regions.",
+    "search": "Dermalax Implant Plus",
+    "infoRu": "СШИТАЯ ГК | МАКСИМАЛЬНЫЙ G-PRIME\nСУПРАПЕРИОСТАЛЬНАЯ АУГМЕНТАЦИЯ | ВЫРАЖЕННАЯ ОБЪЕМНАЯ ПОДДЕРЖКА\nВысококогезивный, ультраплотный матрикс ГК, специально разработанный в качестве филлера уровня имплантата[cite: 1]. Обеспечивает максимальную структурную поддержку и механический лифтинг для глубокого контурирования лица и восстановления объема в области нижней челюсти и скул."
+  },
+  {
+    "name": "Lip Star",
+    "category": "FILLER",
+    "variants": [],
+    "packaging": "1 syringe",
+    "info": "CROSS-LINKED HA | KINETIC FLEXIBILITY\nLIP ENHANCEMENT | CONTROLLED EXTRUSION\nA highly specialized dermal filler engineered exclusively for dynamic perioral tissue[cite: 1]. Features a remarkably soft, flexible gel profile designed to provide controlled volume and precise contouring while seamlessly adapting to the kinetic movement of the lips.",
+    "search": "Lip Star",
+    "infoRu": "СШИТАЯ ГК | КИНЕТИЧЕСКАЯ ГИБКОСТЬ\nУВЕЛИЧЕНИЕ ГУБ | КОНТРОЛИРУЕМАЯ ЭКСТРУЗИЯ\nУзкоспециализированный дермальный филлер, созданный исключительно для динамичных периоральных тканей[cite: 1]. Отличается невероятно мягким и гибким профилем геля, предназначенным для контролируемого восполнения объема и точного контурирования с идеальной адаптацией к мимике губ."
+  },
+  {
+    "name": "Luxfill",
+    "category": "FILLER",
+    "variants": [
+      "Deep",
+      "Fine",
+      "Volume"
+    ],
+    "packaging": "1 syringe",
+    "info": "CROSS-LINKED HA | GRADUATED GEL STRENGTHS\nSUPERFICIAL TO DEEP INTEGRATION | FACIAL VOLUME RESTORATION\nA premium HA filler line utilizing calibrated cross-linking to yield specific gel strengths[cite: 1]. The rheological scaling effortlessly addresses everything from superficial rhytide correction to the robust augmentation of deeper folds and facial volume.",
+    "search": "Luxfill Luxfill Deep Luxfill Fine Luxfill Volume",
+    "infoRu": "СШИТАЯ ГК | ПРОГРЕССИВНАЯ ПЛОТНОСТЬ ГЕЛЯ\nОТ ПОВЕРХНОСТНОЙ ДО ГЛУБОКОЙ ИНТЕГРАЦИИ | ВОССТАНОВЛЕНИЕ ОБЪЕМА ЛИЦА\nПремиальная линейка HA-филлеров, использующая калиброванное сшивание для достижения определенной плотности геля[cite: 1]. Реологическая шкала позволяет легко решать задачи от коррекции поверхностных морщин до мощной аугментации глубоких складок и восстановления объема лица."
+  },
+  {
+    "name": "MissFill",
+    "category": "FILLER",
+    "variants": [
+      "Light",
+      "Deep",
+      "Volume"
+    ],
+    "packaging": "1 syringe",
+    "info": "CROSS-LINKED HA | MULTI-TIERED VISCOELASTICITY\nOPTIMIZED G-PRIME | TISSUE AUGMENTATION\nEngineered with distinct gel properties to transition seamlessly from fine-line correction to robust structural support and facial volumization[cite: 1]. The varying rheological parameters ensure precise tissue integration across different dermal layers.",
+    "search": "MissFill MissFill Light MissFill Deep MissFill Volume",
+    "infoRu": "СШИТАЯ ГК | МНОГОУРОВНЕВАЯ ВЯЗКОУПРУГОСТЬ\nОПТИМИЗИРОВАННЫЙ G-PRIME | АУГМЕНТАЦИЯ ТКАНЕЙ\nРазработан с различными свойствами геля для плавного перехода от коррекции тонких линий к мощной структурной поддержке и волюмизации лица[cite: 1]. Изменяемые реологические параметры обеспечивают точную интеграцию в ткани на разных слоях дермы."
+  },
+  {
+    "name": "Priere Lip",
+    "category": "FILLER",
+    "variants": [],
+    "packaging": "1 syringe",
+    "info": "CROSS-LINKED HA | KINETIC FLEXIBILITY\nLOW ELASTIC MODULUS | PERIORAL CONTOURING\nA highly specialized dermal filler focused exclusively on lip augmentation and contouring[cite: 1]. Features a softer, highly elastic gel profile designed to provide flexible, natural-feeling volume in the lip area, seamlessly adapting to the kinetic movement of the perioral region.",
+    "search": "Priere Lip",
+    "infoRu": "СШИТАЯ ГК | КИНЕТИЧЕСКАЯ ГИБКОСТЬ\nНИЗКИЙ МОДУЛЬ УПРУГОСТИ | ПЕРИОРАЛЬНОЕ КОНТУРИРОВАНИЕ\nВысокоспециализированный дермальный филлер, ориентированный исключительно на увеличение и контурирование губ[cite: 1]. Отличается более мягким, высокоэластичным профилем геля, предназначенным для создания гибкого, естественного объема в области губ, идеально адаптируясь к мимике периоральной зоны."
+  },
+  {
+    "name": "Regenovue",
+    "category": "FILLER",
+    "variants": [
+      "Fine",
+      "Deep",
+      "Sub-Q"
+    ],
+    "packaging": "1 syringe",
+    "info": "CROSS-LINKED HA | 100% CROSS-LINKED STRUCTURE\nLOW PHASE ANGLE | PROGRESSIVE VOLUMIZATION\nA highly cohesive cross-linked HA filler line[cite: 1]. Manufactured with a uniquely uniform matrix, the series is differentiated purely by gel strength to provide calibrated extrusion for superficial correction, deeper folds, and deep subcutaneous volumization.",
+    "search": "Regenovue Regenovue Fine Regenovue Deep Regenovue Sub-Q",
+    "infoRu": "СШИТАЯ ГК | 100% СШИТАЯ СТРУКТУРА\nНИЗКИЙ ФАЗОВЫЙ УГОЛ | ПРОГРЕССИВНАЯ ВОЛЮМИЗАЦИЯ\nЛинейка высококогезивных филлеров на основе сшитой гиалуроновой кислоты[cite: 1]. Изготовленная с уникально однородной матрицей, серия дифференцируется исключительно по плотности геля, обеспечивая калиброванную экструзию для поверхностной коррекции, глубоких складок и глубокой подкожной волюмизации."
+  },
+  {
+    "name": "Sosum H/M/S",
+    "category": "FILLER",
+    "variants": [],
+    "packaging": "1 syringe",
+    "info": "CROSS-LINKED HA | ZERO-BDDE PURIFICATION\nHIGH ELASTIC MODULUS | TARGETED TISSUE SUPPORT\nAn advanced HA dermal filler series characterized by varying degrees of gel firmness[cite: 1]. Processed via a rigorous purification protocol, the formulations are intended for highly specific levels of dermal correction and structural tissue support.",
+    "search": "Sosum H/M/S",
+    "infoRu": "СШИТАЯ ГК | ОЧИСТКА ДО НУЛЕВОГО УРОВНЯ BDDE\nВЫСОКИЙ МОДУЛЬ УПРУГОСТИ | ЦЕЛЕНАПРАВЛЕННАЯ ПОДДЕРЖКА ТКАНЕЙ\nПередовая серия дермальных HA-филлеров, характеризующаяся различной степенью плотности геля[cite: 1]. Прошедшие строгий протокол очистки, эти формулы предназначены для узкоспецифических уровней дермальной коррекции и структурной поддержки тканей."
+  },
+  {
+    "name": "Tesoro",
+    "category": "FILLER",
+    "variants": [
+      "Fine",
+      "Deep",
+      "Sub-Q"
+    ],
+    "packaging": "1 syringe",
+    "info": "CROSS-LINKED HA | HYBRID RHEOLOGY\nHIGH BIOCOMPATIBILITY | TISSUE INTEGRATION\nA high-purity cross-linked HA filler line engineered with distinct cohesive profiles[cite: 1]. The specifically scaled rheology spans softer superficial correction through much deeper, higher-volume augmentation applications.",
+    "search": "Tesoro Tesoro Fine Tesoro Deep Tesoro Sub-Q",
+    "infoRu": "СШИТАЯ ГК | ГИБРИДНАЯ РЕОЛОГИЯ\nВЫСОКАЯ БИОСОВМЕСТИМОСТЬ | ИНТЕГРАЦИЯ В ТКАНИ\nЛинейка высокоочищенных филлеров на основе сшитой ГК, разработанная с различными когезивными профилями[cite: 1]. Специально выверенная реология охватывает диапазон от мягкой поверхностной коррекции до более глубоких процедур с восполнением больших объемов."
+  },
+  {
+    "name": "Voluderm",
+    "category": "FILLER",
+    "variants": [
+      "Fine",
+      "Deep",
+      "Sub-Q"
+    ],
+    "packaging": "1 syringe",
+    "info": "CROSS-LINKED HA | 3D POLYMERIC NETWORK\nENHANCED COHESIVITY | STRUCTURAL LIFT\nConstructed with a highly integrated HA polymeric network[cite: 1]. The distinctly formulated gel properties are calibrated to support targeted clinical applications, ranging smoothly from fine-line structural correction to the lifting of deeper folds and massive facial volumization.",
+    "search": "Voluderm Voluderm Fine Voluderm Deep Voluderm Sub-Q",
+    "infoRu": "СШИТАЯ ГК | 3D-ПОЛИМЕРНАЯ СЕТЬ\nПОВЫШЕННАЯ КОГЕЗИВНОСТЬ | СТРУКТУРНЫЙ ЛИФТИНГ\nСоздан на основе высокоинтегрированной полимерной сети ГК[cite: 1]. Четко дифференцированные свойства геля откалиброваны для поддержки целевых клинических задач, плавно варьируясь от структурной коррекции тонких линий до лифтинга глубоких складок и массивной волюмизации лица."
+  },
+  {
+    "name": "The Hada",
+    "category": "BODY FILLER",
+    "variants": [
+      "50cc"
+    ],
+    "packaging": "1 vial",
+    "info": "CROSS-LINKED HA | MACRO-VOLUME TISSUE EXPANSION\nHIGH DEGRADATION RESISTANCE | BODY CONTOURING\nA large-volume injectable soft-tissue filler engineered for extensive anatomical regions[cite: 1]. Specifically marketed and structurally optimized for body-contouring and broad soft-tissue volume applications, resisting shear forces in large muscle groups.",
+    "search": "The Hada 50cc",
+    "infoRu": "СШИТАЯ ГК | МАКРООБЪЕМНАЯ ЭКСПАНСИЯ ТКАНЕЙ\nВЫСОКАЯ УСТОЙЧИВОСТЬ К ДЕГРАДАЦИИ | КОНТУРИРОВАНИЕ ТЕЛА\nКрупнообъемный инъекционный филлер для мягких тканей, разработанный для обширных анатомических зон[cite: 1]. Структурно оптимизирован и позиционируется специально для контурирования тела и восполнения объема мягких тканей, эффективно противостоя сдвиговым нагрузкам в крупных мышечных группах."
+  },
+  {
+    "name": "Kamomis",
+    "category": "BODY FILLER",
+    "variants": [
+      "100cc"
+    ],
+    "packaging": "1 vial",
+    "info": "CROSS-LINKED HA | EXTRACELLULAR TISSUE EXPANSION\nHIGH COHESIVITY MACRO-GEL | LARGE AREA AUGMENTATION\nFormulated with an ultra-cohesive macroscopic gel matrix, this large-volume injectable body filler provides immense structural projection[cite: 1]. Positioned exclusively for extensive body-volume enhancement and major asymmetrical contouring.",
+    "search": "Kamomis 100cc",
+    "infoRu": "СШИТАЯ ГК | ЭКСТРАЦЕЛЛЮЛЯРНАЯ ЭКСПАНСИЯ ТКАНЕЙ\nМАКРОГЕЛЬ ВЫСОКОЙ КОГЕЗИВНОСТИ | АУГМЕНТАЦИЯ БОЛЬШИХ ПЛОЩАДЕЙ\nКрупнообъемный инъекционный филлер для тела, созданный на основе ультракогезивной макроскопической гелевой матрицы, обеспечивает колоссальную структурную проекцию[cite: 1]. Позиционируется исключительно для масштабного увеличения объемов тела и контурирования при выраженных асимметриях."
+  },
+  {
+    "name": "JUVE FACE",
+    "category": "PDRN / PN",
+    "variants": [],
+    "packaging": "2 syringe",
+    "info": "POLYDEOXYRIBONUCLEOTIDE (PDRN) | REGENERATIVE BOOSTER\nFIBROBLAST ACTIVATION | DERMAL REDENSIFICATION\nA sophisticated injectable skin-rejuvenation formulation engineered specifically for the facial dermis[cite: 1]. Positioned around profound extracellular hydration, rapid improvement of skin quality, and intensive regenerative support on a cellular level.",
+    "search": "JUVE FACE",
+    "infoRu": "ПОЛИДЕЗОКСИРИБОНУКЛЕОТИД (PDRN) | РЕГЕНЕРАТИВНЫЙ БУСТЕР\nАКТИВАЦИЯ ФИБРОБЛАСТОВ | УПЛОТНЕНИЕ ДЕРМЫ\nСложная инъекционная формула для омоложения, разработанная специально для дермы лица[cite: 1]. Ориентирована на глубокую экстрацеллюлярную гидратацию, быстрое улучшение качества кожи и интенсивную регенеративную поддержку на клеточном уровне."
+  },
+  {
+    "name": "ELAXEN PN",
+    "category": "PDRN / PN",
+    "variants": [],
+    "packaging": "3 syringe",
+    "info": "POLYNUCLEOTIDE (PN) | SALMON-DERIVED DNA\nHIGH MOLECULAR WEIGHT | EXTRACELLULAR MATRIX REPAIR\nA highly concentrated polynucleotide (PN)-based injectable designed for profound skin rejuvenation[cite: 1]. Acts as an intensive bio-stimulatory scaffold, positioned specifically around hydration, enhancing skin quality, and driving strong regenerative-support applications.",
+    "search": "ELAXEN PN",
+    "infoRu": "ПОЛИНУКЛЕОТИД (PN) | ДНК ЛОСОСЯ\nВЫСОКАЯ МОЛЕКУЛЯРНАЯ МАССА | ВОССТАНОВЛЕНИЕ ВНЕКЛЕТОЧНОГО МАТРИКСА\nВысококонцентрированный инъекционный препарат на основе полинуклеотидов (PN), предназначенный для глубокого омоложения кожи[cite: 1]. Действует как интенсивный биостимулирующий каркас, ориентированный специально на увлажнение, улучшение качества кожи и мощную регенеративную поддержку."
+  },
+  {
+    "name": "Wondertox",
+    "category": "TOXINS",
+    "variants": [
+      "100Unit",
+      "200Unit"
+    ],
+    "packaging": "1 vial",
+    "info": "BOTULINUM TOXIN TYPE A | HIGH-PURITY NEUROTOXIN\nDYNAMIC RHYTIDE IMPROVEMENT | PREDICTABLE DIFFUSION\nKorean botulinum toxin used for temporary muscle relaxation and dynamic wrinkle improvement[cite: 1]. Engineered to provide a highly stable molecular profile, ensuring targeted neuromuscular blockade with minimal risk of diffusion into adjacent tissue.",
+    "search": "Wondertox 100Unit Wondertox 200Unit",
+    "infoRu": "БОТУЛИНИЧЕСКИЙ ТОКСИН ТИПА A | ВЫСОКООЧИЩЕННЫЙ НЕЙРОТОКСИН\nКОРРЕКЦИЯ ДИНАМИЧЕСКИХ МОРЩИН | ПРЕДСКАЗУЕМАЯ ДИФФУЗИЯ\nКорейский ботулинический токсин, применяемый для временного расслабления мышц и уменьшения выраженности динамических морщин[cite: 1]. Обладает высокостабильным молекулярным профилем, обеспечивающим целенаправленную нейромышечную блокаду с минимальным риском диффузии в соседние ткани."
+  },
+  {
+    "name": "JUVE EYES",
+    "category": "PDRN / PN",
+    "variants": [],
+    "packaging": "1 syringe",
+    "info": "POLYNUCLEOTIDE (PN) | PERIOCULAR REJUVENATION\nLOW VISCOSITY MATRIX | MICROCIRCULATION SUPPORT\nEye-area injectable skin-rejuvenation formulation[cite: 1]. Designed specifically for the delicate periocular area, this low-viscosity biostimulator activates localized fibroblast proliferation to thicken the dermal matrix and reduce periorbital shadowing.",
+    "search": "JUVE EYES",
+    "infoRu": "ПОЛИНУКЛЕОТИД (PN) | ПЕРИОРБИТАЛЬНОЕ ОМОЛОЖЕНИЕ\nНИЗКОВЯЗКАЯ МАТРИЦА | ПОДДЕРЖКА МИКРОЦИРКУЛЯЦИИ\nИнъекционная формула для зоны вокруг глаз[cite: 1]. Разработанный специально для деликатной периорбитальной области, этот низковязкий биостимулятор активирует локальную пролиферацию фибробластов, уплотняя матрикс дермы и уменьшая выраженность темных кругов под глазами."
+  },
+  {
+    "name": "LUMEEZY PDRN",
+    "category": "PDRN / PN",
+    "variants": [],
+    "packaging": "3 vials",
+    "info": "POLYDEOXYRIBONUCLEOTIDE (PDRN) | REGENERATIVE BOOSTER\nEXTRACELLULAR MATRIX REPAIR | DERMAL REDENSIFICATION\nPDRN-based skin-rejuvenation injectable[cite: 1]. Positioned strictly for improving skin quality and supporting a smoother, more hydrated appearance by repairing damaged DNA pathways and upregulating endogenous collagen synthesis.",
+    "search": "LUMEEZY PDRN",
+    "infoRu": "ПОЛИДЕЗОКСИРИБОНУКЛЕОТИД (PDRN) | РЕГЕНЕРАТИВНЫЙ БУСТЕР\nВОССТАНОВЛЕНИЕ ВНЕКЛЕТОЧНОГО МАТРИКСА | УПЛОТНЕНИЕ ДЕРМЫ\nИнъекционный препарат на основе PDRN для улучшения качества кожи[cite: 1]. Строго ориентирован на поддержку более гладкого и увлажненного вида кожи за счет восстановления поврежденных путей ДНК и усиления синтеза эндогенного коллагена."
+  },
+  {
+    "name": "Lapuroon Aurora Super",
+    "category": "PDRN / PN",
+    "variants": [],
+    "packaging": "2 syringe",
+    "info": "PDRN + HA + PEPTIDES | INTENSIVE REJUVENATION COMPLEX\nMULTITARGETED BIOSTIMULATION | DERMAL RESTRUCTURING\nInjectable skin-rejuvenation formulation from the Lapuroon Aurora range[cite: 1]. The variant is positioned for broader skin-quality and revitalization support, deploying a concentrated matrix of PDRN and biomimetic peptides for profound structural repair.",
+    "search": "Lapuroon Aurora Super",
+    "infoRu": "PDRN + ГК + ПЕПТИДЫ | КОМПЛЕКС ИНТЕНСИВНОГО ОМОЛОЖЕНИЯ\nМНОГОЦЕЛЕВАЯ БИОСТИМУЛЯЦИЯ | РЕСТРУКТУРИЗАЦИЯ ДЕРМЫ\nИнъекционный препарат из линейки Lapuroon Aurora для улучшения качества кожи[cite: 1]. Вариант ориентирован на комплексную поддержку кожи и ревитализацию, используя концентрированную матрицу PDRN и биомиметических пептидов для глубокого структурного восстановления."
+  },
+  {
+    "name": "ILLUMA PN",
+    "category": "PDRN / PN",
+    "variants": [],
+    "packaging": "2,5ml/2 syringe",
+    "info": "POLYNUCLEOTIDE (PN) | BIOSTIMULATORY MATRIX\nRAPID TISSUE INTEGRATION | FIBROBLAST PROLIFERATION\nPN-based injectable skin-rejuvenation product[cite: 1]. Positioned strictly around hydration, skin quality, and regenerative support, it acts as a molecular scaffold to dramatically accelerate extracellular matrix remodeling and cellular repair.",
+    "search": "ILLUMA PN",
+    "infoRu": "ПОЛИНУКЛЕОТИД (PN) | БИОСТИМУЛИРУЮЩАЯ МАТРИЦА\nБЫСТРАЯ ИНТЕГРАЦИЯ В ТКАНИ | ПРОЛИФЕРАЦИЯ ФИБРОБЛАСТОВ\nИнъекционный препарат на основе PN для профессионального ухода за кожей[cite: 1]. Строго ориентирован на увлажнение, улучшение качества кожи и регенеративную поддержку; действует как молекулярный каркас, резко ускоряющий ремоделирование внеклеточного матрикса и клеточное восстановление."
+  },
+  {
+    "name": "EXOHEALER P198 SB PLUS",
+    "category": "EXOSOME",
+    "variants": [],
+    "packaging": "5 sets",
+    "info": "ENHANCED EXOSOME VESICLES | BARRIER SUPPORT PROTOCOL\nPARACRINE CELL-SIGNALING | ANTI-INFLAMMATORY CASCADE\nEnhanced EXOHEALER formulation positioned for skin-barrier support, repair, and rejuvenation[cite: 1]. Delivers a hyper-concentrated payload of extracellular vesicles to rapidly downregulate inflammatory cytokines and restructure compromised dermal tissue.",
+    "search": "EXOHEALER P198 SB PLUS",
+    "infoRu": "ОБОГАЩЕННЫЕ ЭКЗОСОМНЫЕ ВЕЗИКУЛЫ | ПРОТОКОЛ ПОДДЕРЖКИ БАРЬЕРА\nПАРАКРИННАЯ КЛЕТОЧНАЯ СИГНАЛИЗАЦИЯ | АНТИВОСПАЛИТЕЛЬНЫЙ КАСКАД\nРасширенная формула EXOHEALER на основе экзосом, ориентированная на поддержку кожного барьера, восстановление и ревитализацию[cite: 1]. Доставляет гиперконцентрированный пул внеклеточных везикул для быстрого подавления воспалительных цитокинов и реструктуризации поврежденной дермы."
+  },
+  {
+    "name": "EXOHEALER ACTIVATING SOLUTION",
+    "category": "EXOSOME",
+    "variants": [],
+    "packaging": "10 sets",
+    "info": "CATALYTIC ACTIVATOR | EXOSOME SYSTEM COMPANION\nBIOAVAILABILITY ENHANCER | OPTIMIZED DELIVERY\nActivating solution used within the EXOHEALER P198 system[cite: 1]. Intended exclusively as a companion preparation for professional exosome-based skin-rejuvenation use, serving to prime the lyophilized vesicles and maximize dermal penetration efficiency.",
+    "search": "EXOHEALER ACTIVATING SOLUTION",
+    "infoRu": "КАТАЛИТИЧЕСКИЙ АКТИВАТОР | КОМПАНЬОН ЭКЗОСОМНОЙ СИСТЕМЫ\nУСИЛИТЕЛЬ БИОДОСТУПНОСТИ | ОПТИМИЗИРОВАННАЯ ДОСТАВКА\nАктивирующий раствор для системы EXOHEALER P198[cite: 1]. Используется исключительно как сопутствующий препарат в профессиональных процедурах с экзосомными продуктами в соответствии с системой производителя, предназначен для подготовки лиофилизированных везикул и максимальной эффективности их проникновения в дерму."
+  },
+  {
+    "name": "BOTANIC EXO",
+    "category": "EXOSOME",
+    "variants": [],
+    "packaging": "1 set",
+    "info": "BOTANICALLY-DERIVED EXOSOMES | PHYTO-REGENERATIVE MATRIX\nPLANT STEM CELL SIGNALING | VEGAN BIOCOMPATIBILITY\nExosome-based skin-rejuvenation formulation positioned around botanical-derived regenerative and skin-quality support[cite: 1]. Leverages advanced phyto-vesicles to transmit potent antioxidant and structural repair signals directly to human fibroblasts.",
+    "search": "BOTANIC EXO",
+    "infoRu": "ЭКЗОСОМЫ РАСТИТЕЛЬНОГО ПРОИСХОЖДЕНИЯ | ФИТОРЕГЕНЕРАТИВНАЯ МАТРИЦА\nСИГНАЛИЗАЦИЯ РАСТИТЕЛЬНЫХ СТВОЛОВЫХ КЛЕТОК | ВЕГАНСКАЯ БИОСОВМЕСТИМОСТЬ\nПрепарат на основе экзосом с акцентом на растительное происхождение компонентов, ориентированный на регенеративную поддержку и улучшение качества кожи[cite: 1]. Использует передовые фитовезикулы для передачи мощных антиоксидантных сигналов и сигналов структурного восстановления напрямую к фибробластам человека."
+  },
+  {
+    "name": "REGENOVUE AQUA",
+    "category": "HA / HYDRATION",
+    "variants": [],
+    "packaging": "3 syringes",
+    "info": "NON-CROSS-LINKED HA | DERMAL HYDRO-BOOSTER\nLOW VISCOSITY | EXTRACELLULAR FLUID RETENTION\nHA-based skin-booster formulation from the REGENOVUE range[cite: 1]. Positioned primarily for hydration and skin-quality improvement rather than structural volumization. Instantly integrates into the superficial dermis to restore depleted hydro-balance and improve light reflectivity.",
+    "search": "REGENOVUE AQUA",
+    "infoRu": "НЕСШИТАЯ ГК | ДЕРМАЛЬНЫЙ ГИДРОБУСТЕР\nНИЗКАЯ ВЯЗКОСТЬ | УДЕРЖАНИЕ ЭКСТРАЦЕЛЛЮЛЯРНОЙ ЖИДКОСТИ\nСкинбустер на основе HA из линейки REGENOVUE[cite: 1]. Ориентирован прежде всего на увлажнение и улучшение качества кожи, а не на структурное восполнение объема. Мгновенно интегрируется в поверхностную дерму, восстанавливая нарушенный гидробаланс и улучшая светоотражение кожи."
+  },
+  {
+    "name": "ILLUMA Hydro Booster",
+    "category": "HA / HYDRATION",
+    "variants": [],
+    "packaging": "2ml/3 syringe",
+    "info": "NON-CROSS-LINKED HA | INTENSIVE EXTRACELLULAR HYDRATION\nSMOOTH TISSUE INTEGRATION | TEXTURE REFINEMENT\nHA-based hydro-booster formulation from ILLUMA[cite: 1]. Positioned strictly for intensive skin hydration and improvement of skin texture and elasticity. Provides a highly fluid matrix that rapidly plumps the dermal layer without altering structural facial contours.",
+    "search": "ILLUMA Hydro Booster",
+    "infoRu": "НЕСШИТАЯ ГК | ИНТЕНСИВНАЯ ЭКСТРАЦЕЛЛЮЛЯРНАЯ ГИДРАТАЦИЯ\nПЛАВНАЯ ИНТЕГРАЦИЯ В ТКАНИ | УЛУЧШЕНИЕ ТЕКСТУРЫ\nГидробустер на основе HA из линейки ILLUMA[cite: 1]. Формула ориентирована на интенсивное увлажнение и улучшение текстуры и эластичности кожи. Обеспечивает высокотекучую матрицу, которая быстро наполняет дермальный слой без изменения структурных контуров лица."
+  },
+  {
+    "name": "Hyalock",
+    "category": "HA / HYDRATION",
+    "variants": [],
+    "packaging": "3ml/3 syringe",
+    "info": "NON-CROSS-LINKED HA | HYDRO-BALANCE RESTORATION\nHIGH PURITY FORMULATION | CELLULAR MICROENVIRONMENT OPTIMIZATION\nHyaluronic-acid injectable skin-booster formulation[cite: 1]. Positioned exclusively for hydration and improvement of skin quality. Acts as an essential humectant matrix, locking in deep dermal moisture to support long-term cellular viability and skin firmness.",
+    "search": "Hyalock",
+    "infoRu": "НЕСШИТАЯ ГК | ВОССТАНОВЛЕНИЕ ГИДРОБАЛАНСА\nВЫСОКООЧИЩЕННАЯ ФОРМУЛА | ОПТИМИЗАЦИЯ КЛЕТОЧНОГО МИКРООКРУЖЕНИЯ\nИнъекционный скинбустер на основе гиалуроновой кислоты[cite: 1]. Ориентирован на увлажнение и улучшение качества кожи. Действует как важнейшая увлажняющая матрица, удерживающая глубокую дермальную влагу для поддержки долгосрочной жизнеспособности клеток и упругости кожи."
+  },
+  {
+    "name": "Hyalace",
+    "category": "HA / HYDRATION",
+    "variants": [],
+    "packaging": "2ml/1 syringe",
+    "info": "NON-CROSS-LINKED HA | MOISTURE RETENTION COMPLEX\nRAPID DISPERSION | EPIDERMAL SMOOTHING\nHyaluronic-acid skin hydration injectable[cite: 1]. Positioned to drastically improve moisture, smoothness, and overall skin quality. The ultra-fluid rheology ensures even dispersion across the dermal-epidermal junction, eliminating fine dehydration lines.",
+    "search": "Hyalace",
+    "infoRu": "НЕСШИТАЯ ГК | КОМПЛЕКС УДЕРЖАНИЯ ВЛАГИ\nБЫСТРАЯ ДИСПЕРСИЯ | РАЗГЛАЖИВАНИЕ ЭПИДЕРМИСА\nИнъекционный препарат на основе гиалуроновой кислоты для увлажнения кожи[cite: 1]. Ориентирован на повышение увлажненности и гладкости кожи. Ультратекучая реология обеспечивает равномерное распределение вдоль дермо-эпидермального соединения, устраняя мелкие линии обезвоживания."
+  },
+  {
+    "name": "TESORO COLLAGEN",
+    "category": "COLLAGEN / REPAIR",
+    "variants": [],
+    "packaging": "1 vial",
+    "info": "BIO-ACTIVE COLLAGEN | DERMAL REDENSIFICATION\nSTRUCTURAL FIRMNESS | TISSUE REGENERATION\nCollagen-focused injectable formulation for skin-quality and regenerative support[cite: 1]. Positioned to directly support firmness and rejuvenated skin appearance by providing an immediate biological scaffold that stimulates endogenous fibroblasts.",
+    "search": "TESORO COLLAGEN",
+    "infoRu": "БИОАКТИВНЫЛ КОЛЛАГЕН | УПЛОТНЕНИЕ ДЕРМЫ\nСТРУКТУРНАЯ ПЛОТНОСТЬ | РЕГЕНЕРАЦИЯ ТКАНЕЙ\nИнъекционная коллаген-ориентированная формула для поддержки качества и структуры кожи[cite: 1]. Направлена на улучшение плотности и более свежий внешний вид кожи за счет обеспечения немедленного биологического каркаса, стимулирующего эндогенные фибробласты."
+  },
+  {
+    "name": "MIRACLE TOUCH UP",
+    "category": "COLLAGEN / REPAIR",
+    "variants": [],
+    "packaging": "5 vials",
+    "info": "POLYCAPROLACTONE (PCL) + HA | TISSUE REPAIR COMPLEX\nSUSTAINED COLLAGENESIS | DERMAL RESTORATION\nInjectable skin-rejuvenation formulation positioned for skin-quality improvement and restorative support[cite: 1]. Synergizes the immediate hydrating effects of HA with the profound, long-lasting biostimulatory mechanisms of solubilized PCL to rebuild compromised dermal architecture.",
+    "search": "MIRACLE TOUCH UP",
+    "infoRu": "ПОЛИКАПРОЛАКТОН (PCL) + ГК | КОМПЛЕКС ВОССТАНОВЛЕНИЯ ТКАНЕЙ\nУСТОЙЧИВЫЙ КОЛЛАГЕНЕЗ | РЕСТАВРАЦИЯ ДЕРМЫ\nИнъекционная формула для ревитализации кожи, ориентированная на улучшение качества кожи и восстановительную поддержку[cite: 1]. Синергично объединяет немедленный увлажняющий эффект ГК с глубокими, долгосрочными биостимулирующими механизмами растворенного PCL для восстановления поврежденной архитектуры дермы."
+  },
+  {
+    "name": "MIRACLE H",
+    "category": "COLLAGEN / REPAIR",
+    "variants": [],
+    "packaging": "5 vials",
+    "info": "PCL + HA | HYDRATION AND REGENERATION\nDUAL-ACTION BIOSTIMULATOR | EXTRACELLULAR MATIRX SUPPORT\nInjectable skin-rejuvenation formulation positioned for hydration, repair and overall skin-quality improvement[cite: 1]. Formulated to deliver immediate fluid retention while triggering a sustained neocollagenesis cascade via its PCL micro-matrix.",
+    "search": "MIRACLE H",
+    "infoRu": "PCL + ГК | УВЛАЖНЕНИЕ И РЕГЕНЕРАЦИЯ\nБИОСТИМУЛЯТОР ДВОЙНОГО ДЕЙСТВИЯ | ПОДДЕРЖКА ВНЕКЛЕТОЧНОГО МАТРИКСА\nИнъекционная формула для ревитализации кожи, ориентированная на увлажнение, восстановление и общее улучшение качества кожи[cite: 1]. Разработана для обеспечения немедленного удержания жидкости при одновременном запуске устойчивого каскада неоколлагенеза с помощью микроматрицы PCL."
+  },
+  {
+    "name": "CINDELLA HEALER",
+    "category": "COLLAGEN / REPAIR",
+    "variants": [],
+    "packaging": "2 syringes",
+    "info": "REGENERATIVE COMPLEX | HYDRATION AND RECOVERY\nANTIOXIDANT PATHWAYS | SKIN BARRIER OPTIMIZATION\nInjectable skin-repair formulation positioned around hydration, revitalization, and recovery support[cite: 1]. Leverages a highly bioavailable matrix to upregulate tissue healing, reduce oxidative stress, and reinforce the epidermal barrier against environmental degradation.",
+    "search": "CINDELLA HEALER",
+    "infoRu": "РЕГЕНЕРАТИВНЫЙ КОМПЛЕКС | УВЛАЖНЕНИЕ И ВОССТАНОВЛЕНИЕ\nАНТИОКСИДАНТНЫЕ ПУТИ | ОПТИМИЗАЦИЯ КОЖНОГО БАРЬЕРА\nИнъекционная формула для восстановления качества кожи, ориентированная на увлажнение, ревитализацию и поддержку процессов восстановления[cite: 1]. Использует матрицу с высокой биодоступностью для ускорения заживления тканей, снижения окислительного стресса и укрепления эпидермального барьера от деградации."
+  },
+  {
+    "name": "ILLUMA NAD+",
+    "category": "COLLAGEN / REPAIR",
+    "variants": [],
+    "packaging": "5ml/2 vial",
+    "info": "NAD+ COENZYME | MITOCHONDRIAL METABOLISM\nCELLULAR ENERGY SUPPORT | SYSTEMIC REVITALIZATION\nNAD+ injectable formulation from ILLUMA[cite: 1]. Positioned strictly around cellular energy support and professional revitalization applications. Dramatically upregulates ATP synthesis and activates sirtuin pathways, driving foundational DNA repair and cellular longevity.",
+    "search": "ILLUMA NAD+",
+    "infoRu": "КОФЕРМЕНТ NAD+ | МИТОХОНДРИАЛЬНЫЙ МЕТАБОЛИЗМ\nПОДДЕРЖКА КЛЕТОЧНОЙ ЭНЕРГИИ | СИСТЕМНАЯ РЕВИТАЛИЗАЦИЯ\nИнъекционная формула NAD+ из линейки ILLUMA[cite: 1]. Ориентирована на поддержку клеточного энергетического обмена и профессиональную ревитализацию. Резко усиливает синтез АТФ и активирует пути сиртуинов, обеспечивая фундаментальную репарацию ДНК и клеточное долголетие."
+  },
+  {
+    "name": "ILLUMA Crystal Rose",
+    "category": "COLLAGEN / REPAIR",
+    "variants": [],
+    "packaging": "5ml/5 vial",
+    "info": "PEPTIDE + HA COMPLEX | MELANOGENESIS INHIBITION\nBRIGHTENING MATRIX | EXTRACELLULAR HYDRATION\nInjectable skin-quality formulation positioned for revitalization, hydration, and a brighter, more even-looking complexion[cite: 1]. Delivers targeted tyrosinase inhibitors alongside deeply hydrating HA to clear dyschromia and restore a luminous dermal finish.",
+    "search": "ILLUMA Crystal Rose",
+    "infoRu": "КОМПЛЕКС ПЕПТИДОВ И ГК | ИНГИБИРОВАНИЕ МЕЛАНОГЕНЕЗА\nОСВЕТЛЯЮЩАЯ МАТРИЦА | ЭКСТРАЦЕЛЛЮЛЯРНАЯ ГИДРАТАЦИЯ\nИнъекционная формула ILLUMA для улучшения качества кожи. Crystal Rose ориентирована на ревитализацию, увлажнение и более ровный и свежий внешний вид кожи[cite: 1]. Доставляет целевые ингибиторы тирозиназы вместе с глубоко увлажняющей ГК для устранения дисхромии и восстановления сияния дермы."
+  },
+  {
+    "name": "Volassom",
+    "category": "COLLAGEN STIMULATORS / REGENERATIVE",
+    "variants": [
+      "0,8ml"
+    ],
+    "packaging": "2 syringes",
+    "info": "BIOSTIMULATORY FORMULATION | GRADUAL NEOCOLLAGENESIS\nSTRUCTURAL REPAIR | TISSUE SUPPORT\nInjectable regenerative/collagen-stimulating formulation[cite: 1]. Positioned for progressive skin-quality and tissue-support improvement. Acts strictly as a biostimulant scaffold, gradually recruiting fibroblasts to thicken the dermal structure and restore lost architectural integrity.",
+    "search": "Volassom 0,8ml",
+    "infoRu": "БИОСТИМУЛИРУЮЩАЯ ФОРМУЛА | ПРОГРЕССИВНЫЙ НЕОКОЛЛАГЕНЕЗ\nСТРУКТУРНОЕ ВОССТАНОВЛЕНИЕ | ПОДДЕРЖКА ТКАНЕЙ\nИнъекционная регенеративная/коллаген-стимулирующая формула[cite: 1]. Ориентирована на постепенное улучшение качества кожи и поддержку мягких тканей. Действует строго как биостимулирующий каркас, постепенно привлекая фибробласты для уплотнения структуры дермы и восстановления утраченной архитектурной целостности."
+  },
+  {
+    "name": "Sosum PCL",
+    "category": "COLLAGEN STIMULATORS / REGENERATIVE",
+    "variants": [],
+    "packaging": "2ml/5vial",
+    "info": "POLYCAPROLACTONE (PCL) | COLLAGEN STIMULATOR\nHIGH BIODEGRADABILITY | STRUCTURAL FIRMNESS\nPolycaprolactone (PCL)-based collagen stimulator[cite: 1]. Positioned strictly for gradual collagen formation, skin firmness, and soft-tissue support. The PCL microspheres provide long-term, localized mechanical stimulation, converting subclinical inflammation into robust Type I collagen synthesis.",
+    "search": "Sosum PCL",
+    "infoRu": "ПОЛИКАПРОЛАКТОН (PCL) | СТИМУЛЯТОР КОЛЛАГЕНА\nВЫСОКАЯ БИОДЕГРАДИРУЕМОСТЬ | СТРУКТУРНАЯ ПЛОТНОСТЬ\nСтимулятор коллагена на основе поликапролактона (PCL)[cite: 1]. Ориентирован на постепенное формирование коллагена, повышение плотности кожи и поддержку мягких тканей. Микросферы PCL обеспечивают долгосрочную локальную механическую стимуляцию, трансформируя субклиническое воспаление в мощный синтез коллагена I типа."
+  },
+  {
+    "name": "ILLUMA 500",
+    "category": "COLLAGEN STIMULATORS / REGENERATIVE",
+    "variants": [],
+    "packaging": "1 vial",
+    "info": "HIGH-STRENGTH COLLAGEN STIMULATOR | PROGRESSIVE TISSUE SUPPORT\nEXTRACELLULAR MATRIX REBUILDING | PROLONGED DURABILITY\nInjectable collagen-stimulating formulation[cite: 1]. Positioned for progressive skin-quality and structural tissue-support improvement. Designed for severe volume loss and advanced architectural rebuilding, requiring confirmation of exact composition from current clinical documentation.",
+    "search": "ILLUMA 500",
+    "infoRu": "СИЛЬНОДЕЙСТВУЮЩИЙ СТИМУЛЯТОР КОЛЛАГЕНА | ПРОГРЕССИВНАЯ ПОДДЕРЖКА ТКАНЕЙ\nВОССТАНОВЛЕНИЕ ВНЕКЛЕТОЧНОГО МАТРИКСА | ПРОЛОНГИРОВАННАЯ ДОЛГОВЕЧНОСТЬ\nИнъекционная коллаген-стимулирующая формула[cite: 1]. Ориентирована на постепенное улучшение качества кожи и поддержку тканей. Предназначена для выраженной потери объема и глубокой архитектурной реструктуризации; точный состав следует подтверждать по актуальной клинической документации."
+  },
+  {
+    "name": "LIPO LAB V line",
+    "category": "LIPOLYTIC",
+    "variants": [],
+    "packaging": "5 vials",
+    "info": "MULTI-COMPLEX LIPOLYTIC | FACIAL CONTOURING\nLIPID METABOLISM | SUBCUTANEOUS FAT REDUCTION\nMulti-ingredient lipolytic formulation from the LIPO LAB line[cite: 1]. Positioned exclusively for localized contouring and fat-reduction applications. Specifically optimized to safely emulsify adipocytes along the jawline and submental areas while tightening overlying dermal tissue.",
+    "search": "LIPO LAB V line",
+    "infoRu": "МУЛЬТИКОМПЛЕКСНЫЙ ЛИПОЛИТИК | КОНТУРИРОВАНИЕ ЛИЦА\nЛИПИДНЫЙ МЕТАБОЛИЗМ | УМЕНЬШЕНИЕ ПОДКОЖНОГО ЖИРА\nМногокомпонентная липолитическая формула из линейки LIPO LAB[cite: 1]. Позиционируется для локальной коррекции контуров и уменьшения жировой ткани. Специально оптимизирована для безопасного эмульгирования адипоцитов вдоль линии подбородка и субментальной зоны с одновременной подтяжкой покрывающей дермальной ткани."
+  },
+  {
+    "name": "Dr Lipo PRIME",
+    "category": "LIPOLYTIC",
+    "variants": [],
+    "packaging": "10 vials",
+    "info": "ADVANCED ADIPOCYTOLYSIS | BODY CONTOURING\nAPOPTOTIC PATHWAYS | METABOLIC CLEARANCE\nPRIME version of the DR LIPO lipolytic line[cite: 1]. Positioned for advanced localized fat-reduction and body-contouring applications. Utilizes a hyper-refined chemical matrix to induce irreversible adipocyte apoptosis, accelerating lymphatic drainage and clearance of lipid debris.",
+    "search": "Dr Lipo PRIME",
+    "infoRu": "ПЕРЕДОВОЙ АДИПОЦИТОЛИЗ | КОНТУРИРОВАНИЕ ТЕЛА\nАПОПТОТИЧЕСКИЕ ПУТИ | МЕТАБОЛИЧЕСКИЙ КЛИРЕНС\nВерсия PRIME липолитической линейки DR LIPO[cite: 1]. Препарат позиционируется для локального уменьшения жировой ткани и контурирования тела. Использует высокоочищенную химическую матрицу для индукции необратимого апоптоза адипоцитов, ускоряя лимфодренаж и выведение липидных остатков."
+  },
+  {
+    "name": "LIPO Vela",
+    "category": "LIPOLYTIC",
+    "variants": [],
+    "packaging": "10 vials",
+    "info": "TARGETED LIPOLYTIC | FAT OXIDATION\nADIPOCYTE DISRUPTION | LOCALIZED CONTOURING\nLipolytic injectable from the LIPO Vela line, positioned for localized fat-reduction and contouring[cite: 1]. Formulated to chemically disrupt the structural integrity of subcutaneous fat cells, allowing for rapid metabolic processing and aesthetic sculpting of the treatment area.",
+    "search": "LIPO Vela",
+    "infoRu": "ЦЕЛЕВОЙ ЛИПОЛИТИК | ОКИСЛЕНИЕ ЖИРОВ\nРАЗРУШЕНИЕ АДИПОЦИТОВ | ЛОКАЛЬНОЕ КОНТУРИРОВАНИЕ\nЛиполитический инъекционный препарат линейки LIPO Vela. Позиционируется для локального уменьшения жировой ткани и коррекции контуров[cite: 1]. Разработан для химического нарушения структурной целостности подкожных жировых клеток, обеспечивая их быструю метаболическую переработку и эстетическое скульптурирование обрабатываемой зоны."
+  },
+  {
+    "name": "DAI HAN NORMAL SALINE",
+    "category": "INJECTIONS / SOLUTIONS",
+    "variants": [],
+    "packaging": "50 vials",
+    "info": "SODIUM CHLORIDE 0.9% | ISOTONIC DILUENT\nSTERILE CLINICAL GRADE | RECONSTITUTION BASE\nSterile 0.9% sodium chloride solution for injection/clinical use[cite: 1]. A standard isotonic saline preparation supplied strictly for professional medical applications, serving as the universal, osmotically balanced base for lyophilized toxin reconstitution and active pharmaceutical dilution.",
+    "search": "DAI HAN NORMAL SALINE",
+    "infoRu": "ХЛОРИД НАТРИЯ 0,9% | ИЗОТОНИЧЕСКИЙ РАСТВОРИТЕЛЬ\nСТЕРИЛЬНЫЙ КЛИНИЧЕСКИЙ КЛАСС | БАЗА ДЛЯ РАЗВЕДЕНИЯ\nСтерильный раствор хлорида натрия 0,9% для инъекционного и клинического применения[cite: 1]. Стандартный изотонический физиологический раствор для профессионального медицинского использования, служащий универсальной, осмотически сбалансированной базой для разведения лиофилизированных токсинов и активных фармацевтических препаратов."
+  },
+  {
+    "name": "Soon Soo Fill",
+    "category": "FILLER",
+    "variants": [
+      "100",
+      "300",
+      "500"
+    ],
+    "packaging": "1 syringe",
+    "info": "CROSS-LINKED HA | CALIBRATED GEL CHARACTERISTICS\nPROGRESSIVE VOLUMIZATION | TISSUE LIFT\nHyaluronic acid (HA) dermal filler series[cite: 1]. Uses different gel characteristics for progressively stronger correction and volumizing applications. Engineered for distinct viscoelastic requirements from fine-line dermal integration to deep supraperiosteal lift.",
+    "search": "Soon Soo Fill Soon Soo Fill 100 Soon Soo Fill 300 Soon Soo Fill 500",
+    "infoRu": "СШИТАЯ ГК | КАЛИБРОВАННЫЕ ХАРАКТЕРИСТИКИ ГЕЛЯ\nПРОГРЕССИВНАЯ ВОЛЮМИЗАЦИЯ | ЛИФТИНГ ТКАНЕЙ\nСерия дермальных филлеров на основе гиалуроновой кислоты (HA)[cite: 1]. Использует различные характеристики геля для прогрессивно усиливающейся коррекции и волюмизации. Разработана для различных вязкоупругих потребностей: от интеграции в поверхностную дерму до глубокого супрапериостального лифтинга."
+  },
+  {
+    "name": "Ami NAD+",
+    "category": "COLLAGEN / REPAIR",
+    "variants": [],
+    "packaging": "3 vials",
+    "info": "NAD+ COENZYME | CELLULAR SUPPORT COMPONENT\nATP SYNTHESIS | MITOCHONDRIAL BIOSTIMULATION\nNAD+ injectable formulation positioned for professional revitalization and cellular-support applications[cite: 1]. Directly fuels the mitochondrial respiratory chain and acts as a substrate for PARP enzymes, essential for profound DNA repair and anti-aging protocols.",
+    "search": "Ami NAD+",
+    "infoRu": "КОФЕРМЕНТ NAD+ | КОМПОНЕНТ КЛЕТОЧНОЙ ПОДДЕРЖКИ\nСИНТЕЗ АТФ | МИТОХОНДРИАЛЬНАЯ БИОСТИМУЛЯЦИЯ\nИнъекционная формула NAD+, позиционируемая для профессиональной ревитализации и клеточной поддержки[cite: 1]. Напрямую питает митохондриальную дыхательную цепь и служит субстратом для ферментов PARP, незаменимых в протоколах репарации ДНК и антивозрастной терапии."
+  },
+  {
+    "name": "Han Heal NAD+",
+    "category": "COLLAGEN / REPAIR",
+    "variants": [],
+    "packaging": "5ml/5 vial",
+    "info": "NAD+ COENZYME | INTRACELLULAR REDOX REGULATOR\nSIRTUIN ACTIVATION | SENESCENCE REVERSAL\nNAD+ injectable formulation positioned for professional cellular-support and revitalization applications[cite: 1]. Upregulates intracellular NAD+ pools to activate sirtuin-dependent longevity pathways, optimizing cellular energy output and reversing senescence in photoaged tissue.",
+    "search": "Han Heal NAD+",
+    "infoRu": "КОФЕРМЕНТ NAD+ | ВНУТРИКЛЕТОЧНЫЙ РЕГУЛЯТОР ОКИСЛИТЕЛЬНО-ВОССТАНОВИТЕЛЬНЫХ ПРОЦЕССОВ\nАКТИВАЦИЯ СИРТУИНОВ | ОБРАЩЕНИЕ СТАРЕНИЯ ВСПЯТЬ\nИнъекционная формула NAD+, позиционируемая для профессиональной клеточной поддержки и ревитализации[cite: 1]. Увеличивает внутриклеточный пул NAD+ для активации сиртуин-зависимых путей долголетия, оптимизируя выработку клеточной энергии и обращая вспять старение фотоповрежденных тканей."
+  },
+  {
+    "name": "MIRACLE L",
+    "category": "COLLAGEN / REPAIR",
+    "variants": [],
+    "packaging": "5 vials",
+    "info": "PCL COLLOID | LIGHT VISCOSITY BIOSTIMULATOR\nSUBCLINICAL INFLAMMATION | DERMAL REDENSIFICATION\nInjectable skin-rejuvenation formulation positioned for lighter skin-quality and revitalization applications[cite: 1]. The finely suspended polycaprolactone matrix triggers controlled fibroblast activation without altering underlying tissue architecture, making it ideal for superficial dermal layers.",
+    "search": "MIRACLE L",
+    "infoRu": "КОЛЛОИД PCL | БИОСТИМУЛЯТОР НИЗКОЙ ВЯЗКОСТИ\nСУБКЛИНИЧЕСКОЕ ВОСПАЛЕНИЕ | УПЛОТНЕНИЕ ДЕРМЫ\nИнъекционная формула для омоложения, ориентированная на мягкое улучшение качества кожи и ревитализацию[cite: 1]. Мелкодисперсная матрица поликапролактона запускает контролируемую активацию фибробластов, не изменяя архитектуру тканей, что идеально для поверхностных слоев дермы."
+  },
+  {
+    "name": "MIRACLE X",
+    "category": "COLLAGEN / REPAIR",
+    "variants": [],
+    "packaging": "5 vials",
+    "info": "HIGH-DENSITY PCL SCAFFOLD | INTENSIVE NEOCOLLAGENESIS\nSTRUCTURAL REPAIR | EXTRACELLULAR REBUILDING\nInjectable regenerative formulation positioned for intensive skin-quality improvement and revitalization[cite: 1]. Delivers a highly concentrated polycaprolactone matrix to drive massive Type I collagen synthesis, restructuring severely degraded networks and restoring dermal thickness.",
+    "search": "MIRACLE X",
+    "infoRu": "ВЫСОКОПЛОТНЫЙ КАРКАС PCL | ИНТЕНСИВНЫЙ НЕОКОЛЛАГЕНЕЗ\nСТРУКТУРНОЕ ВОССТАНОВЛЕНИЕ | РЕСТРУКТУРИЗАЦИЯ ВНЕКЛЕТОЧНОГО МАТРИКСА\nИнъекционная регенеративная формула, позиционируемая для интенсивного улучшения качества кожи и ревитализации[cite: 1]. Обеспечивает высококонцентрированную матрицу поликапролактона для мощного синтеза коллагена I типа, реструктуризации сильно деградированных сетей и восстановления толщины дермы."
+  },
+  {
+    "name": "ILLUMA 200",
+    "category": "COLLAGEN STIMULATORS / REGENERATIVE",
+    "variants": [],
+    "packaging": "1 vial",
+    "info": "BIOSTIMULATORY SCAFFOLD | PROGRESSIVE TISSUE SUPPORT\nLOCALIZED COLLAGENESIS | STRUCTURAL LIFT\nInjectable collagen-stimulating formulation positioned for progressive skin-quality and tissue-support improvement[cite: 1]. Acts as a foundational matrix to naturally repopulate localized collagen stores. Exact composition should be confirmed from current documentation.",
+    "search": "ILLUMA 200",
+    "infoRu": "БИОСТИМУЛИРУЮЩИЙ КАРКАС | ПРОГРЕССИВНАЯ ПОДДЕРЖКА ТКАНЕЙ\nЛОКАЛЬНЫЙ КОЛЛАГЕНЕЗ | СТРУКТУРНЫЙ ЛИФТИНГ\nИнъекционная коллаген-стимулирующая формула, ориентированная на постепенное улучшение качества кожи и поддержку тканей[cite: 1]. Действует как базовая матрица для естественного восполнения локальных запасов коллагена. Точный состав следует подтверждать по актуальной документации."
+  },
+  {
+    "name": "Dr Lipo V",
+    "category": "LIPOLYTIC",
+    "variants": [],
+    "packaging": "10 vials",
+    "info": "LIPID METABOLISM ACCELERATOR | FACIAL ADIPOCYTOLYSIS\nTISSUE RETRACTION | SUBMENTAL CONTOURING\nLipolytic injectable positioned for localized contouring and fat-reduction applications[cite: 1]. Specifically optimized for facial soft tissue, it targets stubborn submental and jawline adipocytes, emulsifying lipid structures while simultaneously retracting lax dermal layers.",
+    "search": "Dr Lipo V",
+    "infoRu": "УСКОРИТЕЛЬ ЛИПИДНОГО МЕТАБОЛИЗМА | АДИПОЦИТОЛИЗ ЛИЦА\nРЕТРАКЦИЯ ТКАНЕЙ | СУБМЕНТАЛЬНОЕ КОНТУРИРОВАНИЕ\nЛиполитический инъекционный препарат, позиционируемый для локального контурирования и уменьшения жировой ткани[cite: 1]. Оптимизирован специально для мягких тканей лица; целенаправленно воздействует на стойкие адипоциты подбородка и линии челюсти, эмульгируя липидные структуры и одновременно подтягивая дряблую дерму."
+  },
+  {
+    "name": "LIPO Vela-V",
+    "category": "LIPOLYTIC",
+    "variants": [],
+    "packaging": "10 vials",
+    "info": "TARGETED LIPOLYTIC | STRUCTURAL CONTOURING\nADIPOCYTE DISRUPTION | METABOLIC CLEARANCE\nLipolytic line positioned for localized fat-reduction and contouring applications[cite: 1]. Engineered to chemically disrupt subcutaneous fat cell membranes in hyper-localized facial zones, facilitating rapid metabolic clearance and defined aesthetic sculpting.",
+    "search": "LIPO Vela-V",
+    "infoRu": "ЦЕЛЕВОЙ ЛИПОЛИТИК | СТРУКТУРНОЕ КОНТУРИРОВАНИЕ\nРАЗРУШЕНИЕ АДИПОЦИТОВ | МЕТАБОЛИЧЕСКИЙ КЛИРЕНС\nЛиполитическая линейка, позиционируемая для локального уменьшения жировых отложений и контурирования[cite: 1]. Разработана для химического разрушения мембран подкожных жировых клеток в гиперлокализованных зонах лица, способствуя быстрому метаболическому клиренсу и четкому эстетическому скульптурированию."
+  },
+  {
+    "name": "Slim Point Body",
+    "category": "LIPOLYTIC",
+    "variants": [],
+    "packaging": "5 vials",
+    "info": "MACRO-LIPOLYTIC FORMULATION | ADIPOSE EMULSIFICATION\nLYMPHATIC STIMULATION | LARGE AREA CONTOURING\nLocalized lipolytic formulation intended for body contouring and targeted reduction of localized adipose tissue[cite: 1]. Combines active lipolytic agents with potent lymphatic stimulators to rapidly metabolize thick subcutaneous fat pads across broad anatomical regions.",
+    "search": "Slim Point Body",
+    "infoRu": "МАКРОЛИПОЛИТИЧЕСКАЯ ФОРМУЛА | ЭМУЛЬГИРОВАНИЕ ЖИРОВ\nЛИМФАТИЧЕСКАЯ СТИМУЛЯЦИЯ | КОНТУРИРОВАНИЕ ОБШИРНЫХ ЗОН\nЛокализованная липолитическая формула, предназначенная для контурирования тела и целенаправленного уменьшения локальных жировых отложений[cite: 1]. Сочетает активные липолитические агенты с мощными стимуляторами лимфодренажа для быстрого метаболизма толстых подкожных жировых пакетов в обширных анатомических зонах."
+  },
+  {
+    "name": "Muchcaine Cream",
+    "category": "NUMBING CREAM",
+    "variants": [
+      "30 g",
+      "500 g"
+    ],
+    "packaging": "Tube",
+    "info": "TOPICAL ANESTHETIC | ION-CHANNEL BLOCKADE\nDERMAL PENETRATION | TEMPORARY DESENSITIZATION\nTopical local-anesthetic cream designed to temporarily reduce skin sensation before aesthetic procedures[cite: 1]. Formulated with an advanced dermal penetrant to rapidly suppress voltage-gated sodium channels. Exact active ingredients and concentration should be verified from the current label.",
+    "search": "Muchcaine Cream 30 g 500 g",
+    "infoRu": "МЕСТНЫЙ АНЕСТЕТИК | БЛОКАДА ИОННЫХ КАНАЛОВ\nПРОНИКНОВЕНИЕ В ДЕРМУ | ВРЕМЕННАЯ ДЕСЕНСИБИЛИЗАЦИЯ\nМестный крем-анестетик, предназначенный для временного снижения чувствительности кожи перед эстетическими процедурами[cite: 1]. Разработан с использованием передового дермального пенетранта для быстрого подавления потенциалзависимых натриевых каналов. Точный состав и концентрацию следует уточнять по актуальной этикетке."
+  },
+  {
+    "name": "Muchcaine PLUS Cream",
+    "category": "NUMBING CREAM",
+    "variants": [],
+    "packaging": "500 g tube",
+    "info": "ENHANCED TOPICAL ANESTHETIC | RAPID DESENSITIZATION\nINTENSIFIED ACTIVE MATRIX | INVASIVE PROTOCOL SUPPORT\nEnhanced topical anesthetic formulation for temporary reduction of skin sensation before procedures[cite: 1]. Employs an intensified active matrix for accelerated epidermal numbness during invasive protocols. Exact active ingredients and concentration should be verified from the current label.",
+    "search": "Muchcaine PLUS Cream",
+    "infoRu": "УСИЛЕННЫЙ МЕСТНЫЙ АНЕСТЕТИК | БЫСТРАЯ ДЕСЕНСИБИЛИЗАЦИЯ\nИНТЕНСИФИЦИРОВАННАЯ АКТИВНАЯ МАТРИЦА | ПОДДЕРЖКА ИНВАЗИВНЫХ ПРОТОКОЛОВ\nУсиленная формула местного анестетика для временного снижения чувствительности кожи перед процедурами[cite: 1]. Использует интенсифицированную активную матрицу для ускоренного онемения эпидермиса при инвазивных протоколах. Точный состав и концентрацию следует уточнять по актуальной этикетке."
+  },
+  {
+    "name": "VITA-D 300.000U (1.5ml/am)",
+    "category": "INJECTIONS / SOLUTIONS",
+    "variants": [],
+    "packaging": "10 vials",
+    "info": "CHOLECALCIFEROL | HIGH-STRENGTH SYSTEMIC DOSE\nIMMUNE MODULATION | OSTEO-DERMAL SUPPORT\nVitamin D3 injectable intended for professional medical use according to local labeling[cite: 1]. Provides an ultra-high systemic dose of cholecalciferol to rapidly correct severe deficiencies, modulating immune function and fundamentally supporting osteo-dermal structural pathways.",
+    "search": "VITA-D 300.000U (1.5ml/am)",
+    "infoRu": "ХОЛЕКАЛЬЦИФЕРОЛ | ВЫСОКОДОЗИРОВАННЫЙ СИСТЕМНЫЙ ПРЕПАРАТ\nИММУНОМОДУЛЯЦИЯ | ОСТЕОДЕРМАЛЬНАЯ ПОДДЕРЖКА\nИнъекционный витамин D3, предназначенный для профессионального медицинского применения в соответствии с локальной инструкцией[cite: 1]. Обеспечивает сверхвысокую системную дозу холекальциферола для быстрого устранения тяжелых дефицитов, модуляции иммунной функции и фундаментальной поддержки остеодермальных структурных путей."
+  },
+  {
+    "name": "VITA-D 200.000U (1ml/am)",
+    "category": "INJECTIONS / SOLUTIONS",
+    "variants": [],
+    "packaging": "5 vials",
+    "info": "CHOLECALCIFEROL | SYSTEMIC VITAMIN D3\nMETABOLIC SYNTHESIS | CELLULAR TURNOVER\nVitamin D3 injectable intended for professional medical use according to local labeling[cite: 1]. A high-strength formulation critical for metabolic synthesis, robust cellular turnover, and correcting localized or systemic cholecalciferol depletion.",
+    "search": "VITA-D 200.000U (1ml/am)",
+    "infoRu": "ХОЛЕКАЛЬЦИФЕРОЛ | СИСТЕМНЫЙ ВИТАМИН D3\nМЕТАБОЛИЧЕСКИЙ СИНТЕЗ | КЛЕТОЧНОЕ ОБНОВЛЕНИЕ\nИнъекционный витамин D3, предназначенный для профессионального медицинского применения в соответствии с локальной инструкцией[cite: 1]. Высокодозированная формула, критически важная для метаболического синтеза, интенсивного клеточного обновления и коррекции локального или системного истощения холекальциферола."
+  },
+  {
+    "name": "DAI HAN LIDOCAINE 2%",
+    "category": "INJECTIONS / SOLUTIONS",
+    "variants": [],
+    "packaging": "10 vials",
+    "info": "LIDOCAINE HYDROCHLORIDE | INJECTABLE ANESTHETIC\nNERVE IMPULSE BLOCKADE | CLINICAL GRADE\nInjectable local anesthetic supplied for professional use where local anesthesia is indicated according to the product label[cite: 1]. A pure clinical-grade formulation designed for immediate nerve impulse blockade during surgical or invasive aesthetic interventions.",
+    "search": "DAI HAN LIDOCAINE 2%",
+    "infoRu": "ЛИДОКАИНА ГИДРОХЛОРИД | ИНЪЕКЦИОННЫЙ АНЕСТЕТИК\nБЛОКАДА НЕРВНЫХ ИМПУЛЬСОВ | КЛИНИЧЕСКИЙ КЛАСС\nИнъекционный местный анестетик, поставляемый для профессионального применения при показаниях к местной анестезии согласно инструкции[cite: 1]. Чистая формула клинического класса, предназначенная для немедленной блокады нервных импульсов во время хирургических или инвазивных эстетических вмешательств."
+  },
+  {
+    "name": "HUONS EPINEPHRINE",
+    "category": "INJECTIONS / SOLUTIONS",
+    "variants": [],
+    "packaging": "50 vials",
+    "info": "EPINEPHRINE (ADRENALINE) | POTENT SYMPATHOMIMETIC\nLOCALIZED VASOCONSTRICTION | HEMORRHAGE CONTROL\nInjectable solution supplied for professional medical use[cite: 1]. Acts directly on alpha and beta-adrenergic receptors to induce profound localized vasoconstriction, drastically reducing bleeding during invasive aesthetic procedures. Concentration and indications must be confirmed from the product label.",
+    "search": "HUONS EPINEPHRINE",
+    "infoRu": "ЭПИНЕФРИН (АДРЕНАЛИН) | МОЩНЫЙ СИМПАТОМИМЕТИК\nЛОКАЛЬНАЯ ВАЗОКОНСТРИКЦИЯ | КОНТРОЛЬ КРОВОТЕЧЕНИЙ\nИнъекционный раствор, поставляемый для профессионального медицинского применения[cite: 1]. Напрямую воздействует на альфа- и бета-адренорецепторы, вызывая сильную локализованную вазоконстрикцию и резко снижая кровоточивость при инвазивных эстетических процедурах. Концентрацию и показания необходимо подтверждать по этикетке продукта."
+  },
+  {
+    "name": "Ginkobal inj.",
+    "category": "INJECTIONS / SOLUTIONS",
+    "variants": [],
+    "packaging": "5ml/20 vials",
+    "info": "GINKGO BILOBA EXTRACT | MICROCIRCULATION STIMULATOR\nFREE-RADICAL SCAVENGER | TISSUE OXYGENATION\nInjectable formulation and professional-use medicinal product[cite: 1]. Dramatically enhances peripheral microcirculation and acts as a potent free-radical scavenger, optimizing tissue oxygenation. Product-specific composition and approved indications defined by local documentation.",
+    "search": "Ginkobal inj.",
+    "infoRu": "ЭКСТРАКТ GINKGO BILOBA | СТИМУЛЯТОР МИКРОЦИРКУЛЯЦИИ\nПОГЛОТИТЕЛЬ СВОБОДНЫХ РАДИКАЛОВ | ОКСИГЕНАЦИЯ ТКАНЕЙ\nИнъекционная формула и профессиональный лекарственный препарат[cite: 1]. Резко усиливает периферическую микроциркуляцию и действует как мощный поглотитель свободных радикалов, оптимизируя оксигенацию тканей. Состав и утвержденные показания определяются локальной документацией."
+  }
+]
